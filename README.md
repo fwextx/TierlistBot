@@ -1,12 +1,16 @@
 # TierlistBot
 A Discord bot for managing Minecraft testing queues and tickets — supports per-channel queues, test creation, results tracking, and a ticketing system.
 
-# Requirements:
+# Requirements
 - Python 3.13
 - All imported packages from requirements.txt
 
 ---
-
+# Installation
+1. Clone this repo:
+   ```bash
+   git clone https://github.com/yourname/TierlistBot.git
+   cd TierlistBot```
 # Features
 
 - **Per-Channel Queues**
