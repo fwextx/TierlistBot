@@ -24,7 +24,7 @@ A Discord bot for managing Minecraft testing queues and tickets — supports per
    - Go into the .env file and replace the token with a valid token from the Discord Developer Portal
 
 4. Run the bot
-   ```main.py```
+   ```py main.py```
 # Features
 
 - **Per-Channel Queues**
