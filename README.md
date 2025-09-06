@@ -3,7 +3,7 @@ A Discord bot for managing Minecraft testing queues and tickets — supports per
 
 # Requirements
 - Python 3.13
-- All imported packages from requirements.txt
+- A Discord Developer Bot Token
 
 ---
 # Installation
@@ -25,6 +25,10 @@ A Discord bot for managing Minecraft testing queues and tickets — supports per
 
 4. Run the bot
    ```py main.py```
+
+---
+
+
 # Features
 
 - **Per-Channel Queues**
