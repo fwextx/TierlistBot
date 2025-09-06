@@ -11,14 +11,14 @@ A Discord bot for managing Minecraft testing queues and tickets — supports per
    
    ```
    git clone https://github.com/fwextx/TierlistBot.git
-   cd TierlistBot```
+   cd TierlistBot
    
 2. Install all imported packages:
    ```
    python -m venv .venv
    source .venv/bin/activate  # (Linux/macOS)
    .venv\Scripts\activate     # (Windows)
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 3. Configure bot:
    - Go into the .env file and replace the token with a valid token from the Discord Developer Portal
