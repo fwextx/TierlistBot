@@ -9,9 +9,9 @@ A Discord bot for managing Minecraft testing queues and tickets — supports per
 # Installation
 1. Clone this repo:
    
-   ```bash
+   ```
    git clone https://github.com/fwextx/TierlistBot.git
-   cd TierlistBot```
+   cd TierlistBot ```
    
 2. Install all imported packages:
    ```
